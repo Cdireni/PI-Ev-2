@@ -1,4 +1,4 @@
-# Evidencia 1 - Proyecto Integrador
+# Evidencia 2 - Proyecto Integrador
 
 Este proyecto es una práctica de React con Vite, Tailwind CSS y consumo de API con Axios.
 
@@ -6,7 +6,7 @@ Este proyecto es una práctica de React con Vite, Tailwind CSS y consumo de API 
 
 1. Abre una terminal y navega a la carpeta del proyecto:
    ```
-   cd Evidencia1
+   cd Evidencia2
    ```
 2. Instala las dependencias:
    ```
