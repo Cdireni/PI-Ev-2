@@ -18,6 +18,3 @@ Este proyecto es una práctica de React con Vite, Tailwind CSS y consumo de API 
    ```
 4. Abre el navegador en la URL que aparece en la terminal (por ejemplo, http://localhost:5173).
 
-## Captura de pantalla
-
-_Agrega aquí una imagen del resultado en funcionamiento (puedes arrastrar y soltar la imagen en el README si usas GitHub, o adjuntarla en la entrega si es por carpeta)._
